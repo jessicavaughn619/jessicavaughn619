@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="">
+  <img src="./giphy.gif" alt="GitHub coding logo" height="200px">
 </p>
 
 <p align="center">
