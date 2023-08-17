@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/jessicavaughn619/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
-    <a href="https://jessicavaughn.netlify.app/" target="_blank">
+    <a href="https://jessicavaughn.dev/" target="_blank">
     <img src="https://img.shields.io/badge/portfolio-%2312100E.svg?&style=for-the-badge&logo=about.me&logoColor=white&color=071A2C" alt="Portfolio"/>
   </a>
   <a href="https://dev.to/jvaughn619" target="_blank">
