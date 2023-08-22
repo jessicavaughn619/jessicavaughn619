@@ -2,9 +2,8 @@
   <h2>Featured Project</h2>
   <h3>La Junta Crafts</h3>
   <div>
-  <a href="https://lajuntacrafts.com/" title="La Junta Crafts" target="_blank"><img src="./ljc.png" height="200px" alt="La Junta Crafts website" /></a>
   <p>La Junta Crafts website is a full-stack e-commerce application built with React.js, Flask, and PostgreSQL.</p>
-  <p>
+  <a href="https://lajuntacrafts.com/" title="La Junta Crafts" target="_blank"><img src="./ljc.png" height="200px" alt="La Junta Crafts website" /></a>
   <p><em>Skills:</em> React.js · Flask · PostgreSQL · Tailwind CSS · UIX</p>
   </div>
 </div>
