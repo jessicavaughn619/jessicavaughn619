@@ -19,3 +19,10 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
 </p>
+
+<div>
+  <h2>Featured Project</h2>
+  <a href="https://lajuntacrafts.com/" target="_blank">
+    La Junta Crafts
+  </a>
+</div>
