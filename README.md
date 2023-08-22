@@ -17,7 +17,7 @@
   </a>
 </p>
 </div>
-<h1>/<h1>
+<h1></h1>
 <div>
   <h3>Featured Project - La Junta Crafts</h3>
   <div>
