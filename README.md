@@ -1,6 +1,11 @@
-<p align="center">
-  <img src="./giphy.gif" alt="GitHub coding logo" height="200px">
-</p>
+<div align="center">
+  <h2>Featured Project</h2>
+  <h3>La Junta Crafts</h3>
+  <a href="https://lajuntacrafts.com/" title="La Junta Crafts" target="_blank"><img src="./lajuntacrafts.png" height="200px" alt="La Junta Crafts website" /></a>
+  <p>La Junta Crafts website is a full-stack e-commerce application built with React.js, Flask, and PostgreSQL.</p>
+  <p>
+  <p><em>Skills:</em> React.js · Flask · PostgreSQL · Tailwind CSS · UIX</p>
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jessicavaughn619/" target="_blank">
@@ -19,12 +24,3 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
 </p>
-
-<div>
-  <h2>Featured Project</h2>
-  <h3>La Junta Crafts</h3>
-  <a href="https://lajuntacrafts.com/" title="La Junta Crafts" target="_blank"><img src="./lajuntacrafts.png" height="200px" alt="La Junta Crafts website" /></a>
-  <p>La Junta Crafts website is a full-stack e-commerce application built with React.js, Flask, and PostgreSQL.</p>
-  <p>
-  <p><em>Skills:</em> React.js · Flask · PostgreSQL · Tailwind CSS · UIX</p>
-</div>
