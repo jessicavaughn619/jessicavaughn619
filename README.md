@@ -30,3 +30,10 @@
   <p><em>Skills:</em> React.js · Flask · PostgreSQL · Tailwind CSS · UIX</p>
   </div>
 </div>
+
+<h1></h1>
+<div align="center">
+<h3>Skills</h3>
+<p>JavaScript · Python · SQL · HTML · CSS · React.js · Next.js · React Native · Flask · Sass · Tailwind · Semantic UI · Bootstrap · Node.js · Express · PostgreSQL · NoSQL · MongoDB · Mongoose · SQLAlchemy · Alembic · SQLite · Git · OAuth · OIDC · Docker · Software Development Life Cycle</p>
+</div>
+<h1></h1>
