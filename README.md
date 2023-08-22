@@ -1,5 +1,7 @@
-<div>
-<p align="center">
+<h1></h1>
+<div align="center">
+<h3>Hi, I'm Jessica! 👋🏻</h3>
+<p>
   <a href="https://www.linkedin.com/in/jessicavaughn619/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
@@ -22,7 +24,9 @@
   <h3>Featured Project - La Junta Crafts</h3>
   <div>
   <p>La Junta Crafts website is a full-stack e-commerce application built with React.js, Flask, and PostgreSQL.</p>
+  <p></p>
   <a href="https://lajuntacrafts.com/" title="La Junta Crafts" target="_blank"><img src="./ljc.png" height="200px" alt="La Junta Crafts website" /></a>
+  <p></p>
   <p><em>Skills:</em> React.js · Flask · PostgreSQL · Tailwind CSS · UIX</p>
   </div>
 </div>
