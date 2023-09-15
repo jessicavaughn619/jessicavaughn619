@@ -31,6 +31,6 @@
 <p>Languages: JavaScript · Python · Ruby · HTML · CSS</p>
 <p>Frameworks/Libraries: React · Flask · Ruby on Rails · RESTful APIs · Tailwind</p>
 <p>Databases: MySQL(SQL) · MongoDB(NoSQL)</p>
-  <p>Tools: Git · GitHub · Bcrypt · OIDC · Render</p>
+<p>Tools: Git · GitHub · Bcrypt · OIDC · Render</p>
 </div>
 <h1></h1>
