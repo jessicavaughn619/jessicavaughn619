@@ -28,6 +28,9 @@
 <h1></h1>
 <div align="center">
 <h3>Skills</h3>
-<p>JavaScript · Python · SQL · HTML · CSS · React.js · Next.js · React Native · Flask · Sass · Tailwind · Semantic UI · Bootstrap · Node.js · Express · PostgreSQL · NoSQL · MongoDB · Mongoose · SQLAlchemy · Alembic · SQLite · Git · OAuth · OIDC · Docker · Software Development Life Cycle</p>
+<p>Languages: JavaScript · Python · Ruby · HTML · CSS</p>
+<p>Frameworks/Libraries: React · Flask · Ruby on Rails · RESTful APIs · Tailwind</p>
+<p>Databases: MySQL(SQL) · MongoDB(NoSQL)</p>
+  <p>Tools: Git · GitHub · Bcrypt · OIDC · Render</p>
 </div>
 <h1></h1>
