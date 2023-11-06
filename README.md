@@ -16,7 +16,6 @@
 <h1></h1>
 <div align="center">
   <h3>Featured Projects: 
-    
     <a href="https://lajuntacrafts.com/">La Junta Crafts</a>
   </h3>
   <div>
@@ -24,11 +23,11 @@
   <p></p>
     <p>La Junta Crafts website is a full-stack e-commerce application built with React.js, Flask, and PostgreSQL.</p>
   </div>
-
-      <a href="https://lajuntacrafts.com/">La Junta Crafts</a>
+<h3>
+      <a href="https://stitch-fix-clone.onrender.com/">Stitch Fix Clone</a>
   </h3>
   <div>
-  <a href="https://stitch-fix-clone.onrender.com/" title="Stitch Fix Clone"><img src="./ljc.png" height="100px" alt="Stitch Fix Clone website" /></a>
+  <a href="https://stitch-fix-clone.onrender.com/" title="Stitch Fix Clone"><img src="./stitch-fix.png" height="100px" alt="Stitch Fix Clone website" /></a>
   <p></p>
     <p>Front-end clone of Stitch Fix September 2023 home website built with React.</p>
   </div>
