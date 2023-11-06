@@ -27,7 +27,7 @@
       <a href="https://stitch-fix-clone.onrender.com/">Stitch Fix Clone</a>
   </h3>
   <div>
-  <a href="https://stitch-fix-clone.onrender.com/" title="Stitch Fix Clone"><img src="./stitch-fix-logo.webp" height="200px" alt="Stitch Fix Clone website" /></a>
+  <a href="https://stitch-fix-clone.onrender.com/" title="Stitch Fix Clone"><img src="./stitch-fix-logo.webp" height="100px" alt="Stitch Fix Clone website" /></a>
   <p></p>
     <p>Front-end clone of Stitch Fix September 2023 home website built with React.</p>
   </div>
