@@ -15,17 +15,18 @@
 </div>
 <h1></h1>
 <div align="center">
-  <h3>Featured Projects: 
+  <h3>Featured Projects:</h3>
+  <h4>
     <a href="https://lajuntacrafts.com/">La Junta Crafts</a>
-  </h3>
+  </h4>
   <div>
   <a href="https://lajuntacrafts.com/" title="La Junta Crafts"><img src="./ljc.png" height="100px" alt="La Junta Crafts website" /></a>
   <p></p>
     <p>La Junta Crafts website is a full-stack e-commerce application built with React.js, Flask, and PostgreSQL.</p>
   </div>
-<h3>
+<h4>
       <a href="https://stitch-fix-clone.onrender.com/">Stitch Fix Clone</a>
-  </h3>
+  </h4>
   <div>
   <a href="https://stitch-fix-clone.onrender.com/" title="Stitch Fix Clone"><img src="./stitch-fix-logo.webp" height="100px" alt="Stitch Fix Clone website" /></a>
   <p></p>
