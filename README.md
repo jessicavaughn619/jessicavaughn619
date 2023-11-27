@@ -37,8 +37,8 @@
 <h1></h1>
 <div align="center">
 <h3>Skills</h3>
-<p><em>Languages:</em> JavaScript · Python · Ruby · HTML · CSS</p>
-<p><em>Frameworks/Libraries:</em> React · Flask · Ruby on Rails · RESTful APIs · Tailwind · Twig</p>
+<p><em>Languages:</em> JavaScript · TypeScript · Python · Ruby · HTML · CSS</p>
+<p><em>Frameworks/Libraries:</em> React · Node.js · Flask · Rails · RESTful APIs · Tailwind · Sass · Twig</p>
 <p><em>Databases:</em> MySQL(SQL) · MongoDB(NoSQL)</p>
 <p><em>Tools:</em> Git · GitHub · Docker · Gulp</p>
 </div>
