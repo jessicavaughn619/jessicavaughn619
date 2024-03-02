@@ -13,28 +13,7 @@
   </a>
 </p>
 </div>
-<h1></h1>
-<div align="center">
-  <h3>Featured Projects:</h3>
-  <h4>
-    <a href="https://lajuntacrafts.com/">La Junta Crafts</a>
-  </h4>
-  <div>
-  <a href="https://lajuntacrafts.com/" title="La Junta Crafts"><img src="./ljc.png" height="100px" alt="La Junta Crafts website" /></a>
-  <p></p>
-    <p>La Junta Crafts website is a full-stack e-commerce application built with React.js, Flask, and PostgreSQL.</p>
-  </div>
-<h4>
-      <a href="https://stitch-fix-clone.onrender.com/">Stitch Fix Clone</a>
-  </h4>
-  <div>
-  <a href="https://stitch-fix-clone.onrender.com/" title="Stitch Fix Clone"><img src="./stitch-fix-logo.webp" height="100px" alt="Stitch Fix Clone website" /></a>
-  <p></p>
-    <p>Front-end clone of Stitch Fix September 2023 home website built with React.</p>
-  </div>
-</div>
 
-<h1></h1>
 <div align="center">
 <h3>Skills</h3>
 <p><em>Languages:</em> Apex · JavaScript · TypeScript · Python · Ruby · HTML · CSS</p>
